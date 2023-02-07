@@ -1,4 +1,4 @@
-package lesson1;
+package com.company.Lesson1;
 
 public abstract class Obstacle {
 

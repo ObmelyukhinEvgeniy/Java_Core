@@ -1,4 +1,4 @@
-package Lesson3;
+package com.company.Lesson3;
 
 public class Orange extends Fruit {
 

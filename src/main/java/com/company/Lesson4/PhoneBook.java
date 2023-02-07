@@ -1,4 +1,4 @@
-package Lesson4;
+package com.company.Lesson4;
 
 import java.util.HashMap;
 import java.util.HashSet;

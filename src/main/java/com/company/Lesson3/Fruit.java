@@ -1,4 +1,4 @@
-package Lesson3;
+package com.company.Lesson3;
 
 public abstract class Fruit {
 

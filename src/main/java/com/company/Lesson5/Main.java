@@ -1,4 +1,4 @@
-package Lesson5;
+package com.company.Lesson5;
 
 import java.io.*;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package Lesson5;
+package com.company.Lesson5;
 
 public class AppData {
     private int height;
